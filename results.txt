@@ -1,0 +1,6 @@
+Cats,16
+Name1,10
+Cats2,23
+Name2,5
+Name3,40
+ddd,2
